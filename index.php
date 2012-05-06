@@ -17,18 +17,16 @@
 
 $filenamesJs = array
 (
-   'index.js'                                                  ,
-   '../library/tom/js/contrib/jquery/1.5/jquery_minified.js'   ,
-   '../library/tom/js/contrib/utils/DomBuilder.js'             ,
-   '../library/tom/js/gui_elements/selectors/SelectorColor2.js',
-   '../library/tom/js/utils/utils.js'
+   'index.js'                                           ,
+   'lib_tom/js/contrib/jquery/1.5/jquery_minified.js'   ,
+   'lib_tom/js/contrib/utils/DomBuilder.js'             ,
+   'lib_tom/js/gui_elements/selectors/SelectorColor2.js',
+   'lib_tom/js/utils/utils.js'
 );
 
 // HTML code. //////////////////////////////////////////////////////////////////////////////////////
 ?>
-<!DOCTYPE html PUBLIC
- "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html>
  <head>
 <?php
