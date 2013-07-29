@@ -17,11 +17,12 @@
 
 $filenamesJs = array
 (
-   'index.js'                                           ,
-   'lib_tom/js/contrib/jquery/1.5/jquery_minified.js'   ,
-   'lib_tom/js/contrib/utils/DomBuilder.js'             ,
-   'lib_tom/js/gui_elements/selectors/SelectorColor2.js',
-   'lib_tom/js/utils/utils.js'
+   '../../lib/tom/js/contrib/jquery/1.5/jquery_minified.js'   ,
+   '../../lib/tom/js/contrib/utils/DomBuilder.js'             ,
+   '../../lib/tom/js/gui_elements/selectors/SelectorColor2.js',
+   '../../lib/tom/js/utils/utils.js'                          ,
+   '../../lib/tom/js/utils/utilsValidator.js'                 ,
+   'index.js'
 );
 
 // HTML code. //////////////////////////////////////////////////////////////////////////////////////
