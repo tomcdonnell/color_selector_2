@@ -27,7 +27,7 @@ $(document).ready
          (
             A
             (
-               {style: 'font-size: small', href: 'http://www.tomcdonnell.net'},
+               {style: 'font-size: small', href: '../../index.php'},
                'Back to tomcdonnell.net'
             ),
             H1({style: 'margin: 0'}, 'Color Selector 2'),
